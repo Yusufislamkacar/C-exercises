@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{73c3a6cc-e686-4277-8b6a-00073fe45663}</ProjectGuid>
-    <RootNamespace>My0021ForLoop</RootNamespace>
+    <ProjectGuid>{b9c733b9-f56c-4bfa-af1d-59b814cf3a73}</ProjectGuid>
+    <RootNamespace>My0023WhileLoop</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
